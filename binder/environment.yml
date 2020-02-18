@@ -6,22 +6,14 @@ dependencies:
 - nodejs
 - nbconvert
 - widgetsnbextension
-# Python Kernel
-- ipykernel
-- ipywidgets
-- ipyleaflet
-- altair
-- bqplot
-- dask
 - matplotlib
 - pandas
 - python
 - seaborn
 - tensorflow
 - sympy
-- pyyaml
-- traittypes
-- invoke
+- pip:
+  - jupyterlab_latex
 
 # R Kernel
 - r-ggplot2
