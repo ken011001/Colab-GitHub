@@ -1,4 +1,2 @@
-set -ex
-
-invoke build --env-name=root --no-kernel
 invoke r
+jupyter lab
