@@ -1,2 +1,2 @@
-invoke r
-jupyter lab
+jupyter labextension install @jupyterlab/latex
+jupyter lab build
