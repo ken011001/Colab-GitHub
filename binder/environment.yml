@@ -1,20 +1,12 @@
 channels:
 - conda-forge
 dependencies:
-# Jupyter
 - jupyterlab
 - nodejs
 - nbconvert
 - widgetsnbextension
 - matplotlib
 - pandas
-- python
 - seaborn
 - tensorflow
 - sympy
-- pip:
-  - jupyterlab_latex
-
-# R Kernel
-- r-ggplot2
-- r-irkernel
