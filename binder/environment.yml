@@ -16,8 +16,6 @@ dependencies:
 - matplotlib
 - pandas
 - python
-- scikit-image
-- scikit-learn
 - seaborn
 - tensorflow
 - sympy
